@@ -14,7 +14,7 @@
 - Conheça ferramentas visuais como Git Desktop
 - Trabalhe com Hooks e Eventos
 - Entenda o Pull Request
-- 
+  
 ## Certificados
 - https://cursos.alura.com.br/user/yarlei-cruz/course/git-github-controle-de-versao/certificate
 - https://cursos.alura.com.br/user/yarlei-cruz/course/git-github-branching-conflitos-pull-requests/certificate
