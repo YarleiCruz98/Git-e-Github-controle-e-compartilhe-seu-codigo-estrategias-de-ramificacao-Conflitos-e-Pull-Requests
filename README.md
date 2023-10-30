@@ -1,5 +1,4 @@
-# Git e Github: controle e compartilhe seu código
-# Git e Github: estratégias de ramificação, Conflitos e Pull Requests
+# Git e Github: controle e compartilhe seu código <br> Git e Github: estratégias de ramificação, Conflitos e Pull Requests
 
 ## Objetivo
 - Construi este repositório para por em prática cursos sobre Git e GitHub
